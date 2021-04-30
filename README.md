@@ -4,8 +4,8 @@
 
 
 ### Task 1 + 2
-    
-You can review in [source code](./task_1_2.py)
+
+I use pipeline model [in Python](https://www.dabeaz.com/coroutines/Coroutines.pdf) and you can see in [source code](./task_1_2.py)
 
 ### Task 3:
 
